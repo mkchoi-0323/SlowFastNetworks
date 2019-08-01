@@ -155,7 +155,8 @@ def main():
             batch_size=params['batch_size'], shuffle=False, num_workers=params['num_workers'])
 
     print("load model")
-    model = slowfastnet.resnet50(class_num=params['num_classes'])
+    #model = slowfastnet.resnet50(class_num=params['num_classes'])
+    model = slowfastnet.resnet200(class_num=params['num_classes'])
     
     if params['pretrained'] is not None:
         pretrained_dict = torch.load(params['pretrained'], map_location='cpu')
