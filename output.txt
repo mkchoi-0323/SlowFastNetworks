@@ -1,0 +1,478 @@
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole1_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole1_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole1_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+1175
+40266
+613
+247
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+4012
+23993
+7639
+2850
+1912
+14175
+353
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+32554
+0
+26544
+3581
+2325
+19957
+0
+4907
+2457
+0
+931
+2062
+8048
+4225
+0
+0
+819
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole2_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole2_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole2_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+786
+36527
+162
+134
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+2336
+22478
+2047
+14539
+1670
+7818
+29
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+2105
+0
+29767
+6230
+1422
+0
+26479
+694
+779
+0
+1617
+0
+3502
+2696
+0
+0
+594
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole3_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole3_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole3_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+1265
+63026
+1453
+195
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+6327
+29828
+4166
+17698
+3348
+9929
+685
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+3809
+0
+0
+19575
+1858
+0
+12813
+11548
+1030
+257
+0
+3682
+10857
+6594
+12099
+4507
+2125
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole4_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole4_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole4_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+305
+22743
+47
+212
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+3682
+7971
+3229
+7650
+2349
+6681
+257
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+9628
+0
+465
+1145
+491
+0
+11721
+966
+1221
+0
+0
+0
+4114
+7077
+216
+0
+22
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole5_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole5_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole5_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+1771
+52001
+336
+566
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+3132
+32861
+7745
+11737
+3099
+18909
+757
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+44357
+11079
+2770
+39973
+3773
+0
+30035
+2297
+4953
+0
+2270
+3374
+18795
+12377
+0
+0
+101
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole6_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole6_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole6_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+748
+47285
+99
+503
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+7931
+22111
+4566
+17973
+2014
+17256
+365
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+4552
+13252
+0
+41070
+5710
+0
+10186
+2013
+3082
+0
+2405
+1458
+8555
+2300
+0
+0
+282
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole7_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole7_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole7_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+1305
+71107
+233
+358
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+4218
+48165
+11944
+7415
+2910
+24106
+5919
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+64344
+772
+23226
+14267
+2080
+0
+41367
+1743
+5761
+0
+1960
+1381
+12755
+23021
+0
+0
+3313
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole8_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole8_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole8_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+777
+27514
+92
+131
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+6756
+13111
+3874
+4710
+4171
+4478
+5694
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+0
+11236
+3328
+19912
+0
+0
+17037
+480
+1499
+0
+0
+286
+834
+10765
+0
+0
+320
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole9_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole9_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole9_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+750
+47159
+175
+405
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+6494
+36359
+6856
+3901
+3983
+9027
+607
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+2777
+10756
+1328
+23269
+1862
+0
+23673
+3048
+1997
+1373
+700
+460
+6207
+10125
+0
+0
+452
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole10_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole10_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole10_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+717
+33253
+132
+235
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+5886
+20178
+7903
+6543
+3327
+0
+912
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+4964
+568
+0
+28282
+813
+0
+20482
+883
+3747
+0
+0
+0
+0
+4028
+0
+0
+0
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole11_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole11_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole11_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+247
+20612
+73
+387
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+3081
+7089
+4966
+5843
+1318
+11262
+1756
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+464
+9014
+0
+18356
+898
+0
+10405
+557
+2187
+0
+735
+885
+2996
+1603
+0
+0
+22
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole12_Annotation_Action.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole12_Annotation_Phase.csv
+/nas/Public/M2CAI_Workflow/2019/annotations/Hei-Chole12_Annotation_Instrument.csv
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+424
+31977
+172
+330
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+2714
+17262
+6349
+8154
+1387
+8023
+888
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+22235
+3801
+0
+9342
+1548
+0
+18108
+1538
+3073
+0
+0
+0
+2428
+3699
+0
+0
+0
+Action statistics
+['Grasp', 'Hold', 'Cut', 'Clip']
+10270
+493470
+3587
+3703
+Phase statistics
+['Preparation', 'Calot triangle dissection', 'Clipping and cutting', 'Galbladder dissection', 'Galbladder packaging', 'Cleaning and coagulation', 'Galbladder retraction']
+56569
+281406
+71284
+109013
+31488
+131664
+18222
+Instrument statistics
+['Curved atraumatic grasper', 'Toothed grasper', 'Fenestrated toothed grasper', 'Atraumatic grasper', 'Overholt', 'LigaSure', 'Electric hook', 'Scissors', 'Clip-applier (metal)', 'Clip-applier (Hem-O-Lok)', 'Swab grasper', 'Argon beamer', 'Suction-irrigation', 'Specimen bag', 'Tiger mouth forceps', 'Claw forceps', 'Undefined']
+191789
+60478
+87428
+225002
+22780
+19957
+222306
+30674
+31786
+1630
+10618
+13588
+79091
+88510
+12315
+4507
+8050
